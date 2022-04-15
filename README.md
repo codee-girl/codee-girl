@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with node and git
 - 💬 Ask me about javascript
 - 📫 How to reach me: rabibakarki@gmail.com
-- ⚡ Fun fact: hehehe
+- ⚡ Fun fact: I've started to love coding.
