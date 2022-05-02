@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning nodeJs
+- 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on MeroBhav
-- 🤔 I’m looking for help with node and git
-- 💬 Ask me about javascript
+- 🤔 I’m looking for help with Node and Git
+- 💬 Ask me about Javascript
 - 📫 How to reach me: rabibakarki@gmail.com
 - ⚡ Fun fact: I've started to love coding.
