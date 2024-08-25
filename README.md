@@ -5,10 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on MeroBhav
-- 🤔 I’m looking for help with Node and Git
-- 💬 Ask me about Javascript
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me: rabibakarki@gmail.com
 - ⚡ Fun fact: I've started to love coding.
